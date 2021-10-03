@@ -90,7 +90,7 @@ body{
     display:table;
     width: 100%;
     height: 60vh;
-    background: url(./images/nn2.JPG) top center;
+    background: url(./images/nn28.JPG) top ;
     background-size: cover;
 }
 @media (min-width: 1024px){
@@ -636,9 +636,11 @@ body{
 
 
 .container-slides{
-  background-size:cover;
+  background-size:contain;
   background-position: center;
 
+}.mt-top-actions{
+  margin-top: 100px;
 }
 
 
